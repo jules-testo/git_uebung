@@ -2,8 +2,11 @@ Name von Rezept
 Frühlingssuppe
 
 Portionen
+4
 
 Zutaten
 
 Zubereitung
 Schneide folgende Zutaten
+Frühlingszwiebl, Karotten, Porree, Kartoffeln
+
